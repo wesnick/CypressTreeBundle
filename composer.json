@@ -19,7 +19,7 @@
         }
     },
     "require": {
-        "friendsofsymfony/jsrouting-bundle": "dev-master"
+        "friendsofsymfony/jsrouting-bundle": "~1"
     },
     "target-dir": "Cypress/TreeBundle"
 }
